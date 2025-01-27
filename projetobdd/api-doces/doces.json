@@ -1,0 +1,40 @@
+{
+    "sweets": [
+      {
+        "id": 1,
+        "name": "Copo da felicidade",
+        "description": "Uma mistura de sabores que vai alegrar seu dia.",
+        "urlImg": "imagens/copo_felicidade.png"
+      },
+      {
+        "id": 2,
+        "name": "Cestinha mágica",
+        "description": "Docinho envolto em uma casquinha crocante.",
+        "urlImg": "imagens/cestinha.png"
+      },
+      {
+        "id": 3,
+        "name": "Doce na travessa",
+        "description": "Delicioso doce servido em uma travessa generosa.",
+        "urlImg": "imagens/doce-travessa.png"
+      },
+      {
+        "id": 4,
+        "name": "Bolo de pote",
+        "description": "O clássico bolo em camadas com uma cobertura irresistível.",
+        "urlImg": "imagens/bolo.png"
+      },
+      {
+        "id": 5,
+        "name": "Cone trufado",
+        "description": "Cone recheado com trufas de chocolate.",
+        "urlImg": "imagens/cone-trufado.png"
+      },
+      {
+        "id": 6,
+        "name": "Pão de mel",
+        "description": "Doce tradicional com recheio de mel e chocolate.",
+        "urlImg": "imagens/pao-de-mel.png"
+      }
+    ]
+  }
